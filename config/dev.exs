@@ -36,8 +36,8 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :luna, Luna.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  username: "luna",
+  password: "J8Xs44XwmkV36g6jpLf4",
   database: "luna_dev",
   hostname: "localhost",
   pool_size: 10
